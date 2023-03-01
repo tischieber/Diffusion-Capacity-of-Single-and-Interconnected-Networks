@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+authors:
+  - family-names: Schieber
+    given-names: Tiago
+title: "Diffusion Capacity of Single and Interconnected Networks"
+version: 1
