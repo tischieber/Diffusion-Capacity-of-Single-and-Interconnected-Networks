@@ -1,6 +1,6 @@
 # Diffusion Capacity of Single and Interconnected Networks
 
-Tiago A. Schieber, Laura C. Carpi, Cristina Masoller, Albert Díaz-Guilera and Martín G. Ravetti
+Tiago A. Schieber, Laura C. Carpi, Panos M. Pardalos, Cristina Masoller, Albert Díaz-Guilera and Martín G. Ravetti
 
 This repository represents an R framework of functions and examples for computing the Diffusion Capacity of Single and Interconnected Networks proposed by Schieber et al. in 2023.
 
